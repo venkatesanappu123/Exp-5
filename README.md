@@ -15,22 +15,23 @@ Create the following diagrams in StarUML:
    
 # DIAGRAMS:
 ## Use Case Diagram
-![UseCaseDiagram1](https://github.com/user-attachments/assets/5e105cbb-eda7-45d3-92c3-50523ac416e2)
+![UseCaseDiagram1](https://github.com/user-attachments/assets/0c625173-a8a7-4e67-991d-7704485aeeff)
 
 ## Class Diagram
-![ClassDiagram1](https://github.com/user-attachments/assets/65540b4d-75ed-4c9f-8880-9f0de4df02a7)
+![ClassDiagram1](https://github.com/user-attachments/assets/6088f5e2-1b09-4cb1-96bf-be228aa68927)
+
 
 ## Activity Diagram
-![ActivityDiagram1](https://github.com/user-attachments/assets/55ad33c5-fa0d-4d90-a80e-50a78a41464b)
+![ActivityDiagram1](https://github.com/user-attachments/assets/cfd11582-9717-462c-bef9-93203319e1e8)
 
 ## Sequence Diagram
-![SequenceDiagram1](https://github.com/user-attachments/assets/70808ab5-ab76-42de-b12c-cfc637b95cfa)
+![SequenceDiagram1](https://github.com/user-attachments/assets/d97c9f54-8c11-4d1f-892a-27c6072eb3ca)
 
 ## Communication Diagram
-![CommunicationDiagram1](https://github.com/user-attachments/assets/891a335e-9432-4c86-abe2-c380a3987dfc)
+![CommunicationDiagram1](https://github.com/user-attachments/assets/1618da7e-dff0-4489-abab-00d20a334b5e)
 
 ## Package Diagram
-![PackageDiagram1](https://github.com/user-attachments/assets/5ec5a3db-18fd-41c9-9013-d2115028a664)
+![PackageDiagram1](https://github.com/user-attachments/assets/9a2eb50c-7a3f-4104-9336-5a7d64b9816b)
 
 
 # RESULT:
